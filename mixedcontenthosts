@@ -1,0 +1,29 @@
+# This hosts file is designed to be used with Blokada ad blocking and blocks additional
+# mixed-content websites that contain a large amount of pornography. I am open to debate
+# regarding things to add, but this is mostly a personal list of items with provacative
+# material.
+
+# Twitter is used to host a large amount of pornography.
+127.0.0.1 twitter.com
+
+# 4Chan hosts a large amount of pornography among other undesirable content.
+127.0.0.1 4chan.org
+127.0.0.1 boards.4chan.org
+
+# 9Gag often contains subcategories where users try to hide pornography.
+127.0.0.1 9gag.com
+
+# Imgur hosts a large amount of pornographic images and GIFs uploaded by users.
+127.0.0.1 imgur.com
+
+# There are a large number of subreddits that users upload pornography to.
+127.0.0.1 reddit.com
+
+# The Chive isn't pornographic, but often has pictures of girls wearing very little.
+127.0.0.1 thechive.com
+
+# Tumblr is has a high concentration of pornographic content.
+127.0.0.1 tumblr.com
+
+# Vid.me allows users to upload pornography.
+127.0.0.1 vid.me
