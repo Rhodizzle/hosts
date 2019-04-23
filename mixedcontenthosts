@@ -28,5 +28,6 @@
 # Vid.me allows users to upload pornography.
 127.0.0.1 vid.me
 
+# Additional mixed content hosts
 127.0.0.1 youtube.com
-127.0.0.1 images. google.com
+127.0.0.1 images.google.com
