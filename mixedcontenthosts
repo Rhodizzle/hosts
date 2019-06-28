@@ -18,6 +18,7 @@
 
 # There are a large number of subreddits that users upload pornography to.
 127.0.0.1 reddit.com
+127.0.0.1 redditstatic.com
 
 # The Chive isn't pornographic, but often has pictures of girls wearing very little.
 127.0.0.1 thechive.com
