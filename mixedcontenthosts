@@ -4,32 +4,32 @@
 # material.
 
 # Twitter is used to host a large amount of pornography.
-127.0.0.1 twitter.com
+127.0.0.1 *twitter.com
 
 # 4Chan hosts a large amount of pornography among other undesirable content.
-127.0.0.1 4chan.org
-127.0.0.1 boards.4chan.org
+127.0.0.1 *4chan.org
+127.0.0.1 *boards.4chan.org
 
 # 9Gag often contains subcategories where users try to hide pornography.
-127.0.0.1 9gag.com
+127.0.0.1 *9gag.com
 
 # Imgur hosts a large amount of pornographic images and GIFs uploaded by users.
+127.0.0.1 *imgur.com
 127.0.0.1 imgur.com
-127.0.0.1 m.imgur.com
 
 # There are a large number of subreddits that users upload pornography to.
-127.0.0.1 reddit.com
-127.0.0.1 redditstatic.com
+127.0.0.1 *reddit.com
+127.0.0.1 *redditstatic.com
 
 # The Chive isn't pornographic, but often has pictures of girls wearing very little.
-127.0.0.1 thechive.com
+127.0.0.1 *thechive.com
 
 # Tumblr is has a high concentration of pornographic content.
-127.0.0.1 tumblr.com
+127.0.0.1 *tumblr.com
 
 # Vid.me allows users to upload pornography.
-127.0.0.1 vid.me
+127.0.0.1 *vid.me
 
 # Additional mixed content hosts
-127.0.0.1 youtube.com
-127.0.0.1 images.google.com
+127.0.0.1 *youtube.com
+127.0.0.1 *images.google.com
